@@ -14,11 +14,9 @@
 
 图片示例：
 
-![输入图片说明](https://demo.youxuebao.com.cn/wechatmini/)
+![输入图片说明](https://demo.youxuebao.com.cn/wechatmini/ops-coffee-1778116999814.jpg)
 
-![输入图片说明](https://demo.youxuebao.com.cn/wechatmini/)
-
-![输入图片说明](https://demo.youxuebao.com.cn/wechatmini/)
+![输入图片说明](https://demo.youxuebao.com.cn/wechatmini/ops-coffee-1778117044618.jpg)
 
 需要前后端源码、数据库请联系我们，微信扫一扫添加好友
 
